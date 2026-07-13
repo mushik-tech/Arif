@@ -87,3 +87,19 @@ ul{
 img{
     width: 100%;
 }
+.about{
+    background-color:#FFF8F3 ;
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 75px;
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 30px;
+}
+.mj{
+    padding-top: 10px;
+}

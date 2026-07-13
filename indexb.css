@@ -1,0 +1,67 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    padding: 12px 0;
+    margin: auto;
+}
+ul,li,a{
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+
+}
+.btn{
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    padding: 12px 12px;
+    font-weight: bold;
+    font-size: 10px;
+}
+.rahman{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+   
+    
+
+    
+}
+.btn-me{
+    
+background-color:white;
+    border-radius: 5px;
+    color:tomato;
+    border: 1px solid tomato;
+    padding: 12px 12px;
+    font-weight: bold;
+    font-size: 10px;
+}
+.musfik p{
+font-weight: bold;
+font-size: 20px;
+}
+.musfik h{
+    font-weight: bold;
+    font-size: 40px;
+}
+img{
+    width: 100%;
+}
+body{
+    background-image: url(./image/images/developer.png),url(./image/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left,bottom right;
+
+}
